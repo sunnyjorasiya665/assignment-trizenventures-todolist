@@ -37,4 +37,4 @@ To run this project locally, follow these steps:
 
 ## Application Screenshot
 
-![App Screenshot](./screenshots/app-screenshot.png)
+![App Screenshot](./Screenshot 2025-09-22 133822.png)
